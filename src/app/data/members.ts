@@ -124,27 +124,6 @@ export const members: Member[] = [
     socialLinks: [
     ],
   },
-  {
-    slug: "drixy",
-    name: "Drixy",
-    featured: false,
-    discordId: "319765049210306562",
-    status: "offline",
-    avatar: "https://www.pinterest.com/sydneyjayne19/twitter-pfp-aesthetic/",
-    bio: "Restricted Feelings",
-    tagline: "Building something real.",
-    music: "https://kumakiryu.github.io/musics-forunhoely/assets/drixyunhoelymusic.mp3",
-    musicTitle: "E85",
-    musicArtist: "Don Toliver",
-    musicCoverUrl: "https://cdn.discordapp.com/attachments/549417978047758359/1515639291005374596/image.png?ex=6a2fbc96&is=6a2e6b16&hm=1a492e5493e516bc92aea8dc80d18eedb551d928be918e8c6659a12372f76ffb&animated=true",
-    musicStartTime: 0,
-    bgUrl: "https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyYm11em5sY2gyY245cG5xODBjNXl2NGlxMmUwemU1MXhkbzF4am96ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/AdS82sYv75GCfBuQQQ/giphy.gif",
-    bgType: "image",
-    badgeBgUrl: "https://raw.githubusercontent.com/kumakiryu/unhoely-assets/main/assets/wotext.png",
-    badgeBgType: "image",
-    socialLinks: [
-    ],
-  },
     {
     slug: "ellawtf",
     name: "Ella",
